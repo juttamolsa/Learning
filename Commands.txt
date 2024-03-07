@@ -1,0 +1,13 @@
+https://git-scm.com/doc
+https://www.w3schools.com/git/
+Git Commands
+1. pwd		                    to check where you are (If necessary).
+2. cd                           change directory.
+                                    "C:\MyPicture" becomes -> "/C/MyPicture" (backslashes are replaced with slashes).
+                                    if the folder name is having some spaces -> then you need to enclose it in double quotes "C:/Program Files".
+3. status	                    to check what has changed.
+4. rm		                    to remove a file from staging.
+5. add		                    add changes into staging.
+6. commit -m""                  to commit in staging.
+7. push origin branch_name	    to push into GITHub repo.
+"/C/Users/jutta.molsa/OneDrive - Mehiläinen Oy/Tiedostot/Git Learning/Learning"
