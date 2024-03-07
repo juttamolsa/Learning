@@ -1,0 +1,21 @@
+Notes
+Day 1 covered: Git basics practices and notes done. Other files sorted and depo updated.
+Day 2 covered: Studies started at fullstackopen.com. Covered these bits of Fundamentals of Web apps: 
+* HTTP GET
+* Traditional web applications
+* Running application logic in the browser
+* Event handlers and Callback functions
+Day 3 covered: Continued with Fundamentals of Web apps
+* Dom-Api
+* manipulating document object from console
+* jumped over CSS (already studied)
+* plus Loading a page containing JavaScript review.
+Day 4 covered: Continued with Fundamentals of Web apps
+* AJAX
+* Single page app
+* JavaScript-libraries
+* Full-stack web development
+* JavaScript fatigue
+* Reading from excersises 0.1 - 0.3
+
+
